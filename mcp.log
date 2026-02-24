@@ -1,0 +1,4 @@
+2026-02-24 22:31:24,597 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-02-24 22:31:31,879 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-02-24 22:31:31,880 - server_module - INFO - Adding 1 and 2
+2026-02-24 22:31:31,880 - server_module - INFO - Result of addition: 3
